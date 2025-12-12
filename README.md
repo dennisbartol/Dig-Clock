@@ -2,6 +2,5 @@
 ##### 🕑 Digital clock - with light and dark mode. 
 
 
-🕒
-
-Dark and light mode is added and removed through 
+- 🕒
+- 🌗 Dark and light mode is added and removed through an if-else function,. 
