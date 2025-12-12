@@ -1,5 +1,5 @@
 
-#### 🕑 Digital clock - with light and dark mode. 
+#### 🕑 Digital clock - With light and dark mode. 
 
 
 - 🕒 A needle is animated upon every second, just like a real clock.
