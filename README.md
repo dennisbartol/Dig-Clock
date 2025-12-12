@@ -3,4 +3,4 @@
 
 
 - 🕒
-- 🌗 Dark and light mode is added and removed through an if-else function,. 
+- 🌓 Dark and light mode is added and removed through an if-else function,. 
